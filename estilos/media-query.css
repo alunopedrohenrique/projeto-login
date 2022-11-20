@@ -5,19 +5,19 @@
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
     section#login{
-        width: 90vw;
+        width: 0vw;
 
     }
 
     section#login > div#imagem{
         float: left;
-        width: 30%;
+        width: 1000%;
         height: 100%;
     }
 
     section#login > div#formulario{
         float: right;
-        width: 70%;
+        width: 100%;
     }
 }
 
@@ -27,7 +27,7 @@
     }
     section#login{
         float: left;
-        width: 50%;
+        width: 100%;
         height: 100%;
     }
 
